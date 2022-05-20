@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "bookscatalystconnection_function",
+		"stack": "node14",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

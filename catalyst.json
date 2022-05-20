@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "bookscatalystconnection_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
