@@ -17,7 +17,7 @@ const CREDENTIALS = {
         client_secret: 'fda9e56a563e11ab69',
         auth_url: 'https://accounts.zoho.com/oauth/v2/auth',
         refresh_url: 'https://accounts.zoho.com/oauth/v2/token',
-        refresh_token: '1000.f320ca8447cb5adc28140e09f6f6f25'
+        refresh_token: '1000.84478140e09f6f6f25'
     }
 };
 
